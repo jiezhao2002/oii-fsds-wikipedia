@@ -22,4 +22,5 @@ positional arguments:
 options:
   -h, --help     show this help message and exit
   --limit LIMIT  Number of revisions to download (default: 10)
+  --update       Instruct whether to update the current revisions (default:False)
 ```
